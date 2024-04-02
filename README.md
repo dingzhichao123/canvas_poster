@@ -1,2 +1,3 @@
 # canvas_poster
-canvas海报
+
+`实现canvas海报生成`
